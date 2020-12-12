@@ -1,6 +1,6 @@
 #### Distibuted Systems- Spring 2020
 - The course was based on **Nancy Lynch's book** for the most part. From the first HW to the
-```math
+```code
 SE = \frac{\sigma}{\sqrt{n}}
 ```
 one, we implemented a chat box(PHW0), Leader election with LCR algorithm
